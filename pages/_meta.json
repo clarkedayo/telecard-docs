@@ -1,0 +1,12 @@
+{
+  "index": "Get Started",
+  "create-account": "Crete Account",
+  "Management": "Card Management",
+  "card": {
+    "title": "Home",
+    "type": "page",
+    "href": "https://telecard.org"
+  },
+  "security": "Security",
+  "support": "Support"
+}
