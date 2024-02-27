@@ -1,0 +1,12 @@
+{
+  "index": "Get Started",
+  "create-account": "Create Account",
+  "Management": "Card Management",
+  "card": {
+    "title": "Home",
+    "type": "page",
+    "href": "https://telecard.org"
+  },
+  "support": "Support",
+  "license": "License"
+}
